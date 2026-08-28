@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main7()
+int main()
 {
     int statusReg  = 0b10110001;
     int controlReg = 0b00000000;
