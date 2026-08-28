@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main2(){
+int main(){
 
 	int N ;
 	cout << "Enter Number of Readings " << endl;
