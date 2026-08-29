@@ -52,3 +52,16 @@ int main(){
 	return 0;
 
 }
+
+
+// Output : 
+
+// V1: Call by Value
+// Before : A=55  B=12
+// After  : A=55  B=12
+// V2: Call by Reference
+// Before : A=55  B=12
+// After  : A=12  B=55
+// V3: Call by Pointer
+// Before : A=12  B=55
+// After  : A=55  B=12
