@@ -100,3 +100,19 @@ int main(){
 
 
 }
+
+
+//Output : 
+
+// Enter Number of Readings 
+// 5
+// -12
+// 45
+// 18
+// 32
+// 55
+// Valid Readings : 45 18 32 55 
+// Skipped (errors): 1
+// First CRITICAL : INDEX 1 -> 45C
+// Min : 18°C    Max : 55°C    Avg : 37.5°C
+// Normal : 1 Warning : 1 Critical : 2 Shutdown : 0
