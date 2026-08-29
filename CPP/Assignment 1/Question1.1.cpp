@@ -60,6 +60,14 @@ int main(){
 	return 0;
 }
 
+//Output : 
+
+// Enter the temperature 
+// 53
+// Temperature : 53C / 127.4F
+// Status : CRITICAL
+// Action : Cooling system triggered
+// Reading  : Above Average 
 
 
 
