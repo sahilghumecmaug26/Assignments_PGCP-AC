@@ -94,3 +94,20 @@ int main(){
 
     return 0;
 }
+
+
+
+// Output : 
+
+// Waypoint 1
+// Distance : 50 units
+// Safe Zone: YES
+
+// Waypoint 2
+// Distance : 22.3607 units
+// Safe Zone: YES
+
+// Waypoint 3
+// Distance : 63.2456 units
+// Safe Zone: NO
+
