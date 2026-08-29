@@ -39,3 +39,11 @@ int main(){
 	return 0 ;
 
 }
+
+
+
+// Output : 
+
+// Calibration Min : 8
+// Calibration Max : 67
+
