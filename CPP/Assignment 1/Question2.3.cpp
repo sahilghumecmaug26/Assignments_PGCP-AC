@@ -64,3 +64,12 @@ int main()
 
     return 0;
 }
+
+
+
+// Output : 
+
+// Status Register : 177
+// After repointing : 202
+// Control Register : 240
+// Status Register 2 : 177
