@@ -323,3 +323,78 @@ int main()
 
     return 0;
 }
+
+
+
+
+// Output : 
+
+// Enter name: Sahil
+// Enter department: HR
+// Enter grade: G
+// ERROR: Invalid grade 'G'. Accepted values: A, B, C, D.
+// Enter basic salary: 80255
+// Enter name: OM
+// Enter department: IT
+// ERROR: 'IT' is not a registered department.
+// Enter grade: C
+// Enter basic salary: 5000
+// ERROR: Salary must be between Rs.10,000 and Rs.5,00,000. Value rejected.
+// Enter name: Mihir
+// Enter department: Hr
+// ERROR: 'Hr' is not a registered department.
+// Enter grade: A
+// Enter basic salary: 65632
+
+// ============================================
+// EMPLOYEE PAYSLIP - AUG 2026
+// ============================================
+// Emp ID          : 1001
+// Name            : Sahil
+// Department      : HR
+// Grade           : D
+// Status          : Active
+// --------------------------------------------
+// Basic Salary    : Rs. 80255
+// Allowances      : Rs. 8025.5
+// Gross Salary    : Rs. 88280.5
+// --------------------------------------------
+// Tax Deduction   : Rs. 3828.05
+// Net Salary      : Rs. 84452.4
+// ============================================
+
+// ============================================
+// EMPLOYEE PAYSLIP - AUG 2026
+// ============================================
+// Emp ID          : 1002
+// Name            : OM
+// Department      : 
+// Grade           : C
+// Status          : Active
+// --------------------------------------------
+// Basic Salary    : Rs. 0
+// Allowances      : Rs. 0
+// Gross Salary    : Rs. 0
+// --------------------------------------------
+// Tax Deduction   : Rs. 0
+// Net Salary      : Rs. 0
+// ============================================
+
+// ============================================
+// EMPLOYEE PAYSLIP - AUG 2026
+// ============================================
+// Emp ID          : 1003
+// Name            : Mihir
+// Department      : 
+// Grade           : A
+// Status          : Active
+// --------------------------------------------
+// Basic Salary    : Rs. 65632
+// Allowances      : Rs. 26252.8
+// Gross Salary    : Rs. 91884.8
+// --------------------------------------------
+// Tax Deduction   : Rs. 4188.48
+// Net Salary      : Rs. 87696.3
+// ============================================
+// Mihir is no longer active. Payroll skipped.
+// Total Employees : 3
