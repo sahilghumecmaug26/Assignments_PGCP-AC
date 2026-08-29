@@ -81,3 +81,25 @@ int main(){
 	return 0;
 }
 
+
+// Output : 
+
+// Enter Temperatures of 9 rooms : 
+// 54
+// 78
+// 52
+// 24
+// 34
+// 65
+// 54
+// 12
+// 24
+
+//         Room1   Room2   Room3
+// Floor 1 : 54     78     52     
+// Floor 2 : 24     34     65     
+// Floor 3 : 54     12     24     
+// Hottest Room  : Floor 1, Room 2  ->  78°C
+// Hottest Floor : Floor 1  (avg 61.3333°C)
+// Rooms at WARNING or above : 6
+
