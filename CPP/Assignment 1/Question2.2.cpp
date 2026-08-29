@@ -111,3 +111,12 @@ int main()
 
     return 0;
 }
+
+
+// Output : 
+
+// Original signal : 0.5 -1.2 0.8 -0.3 1 -0.9 0.1 
+// RMS             : 0.778276
+// After normalise : 0.416667 -1 0.666667 -0.25 0.833333 -0.75 0.0833333 
+// Zero Crossings  : 6
+// After gain      : 0.833333 -2 1.33333 -0.5 1.66667 -1.5 0.166667
