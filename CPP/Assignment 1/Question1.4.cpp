@@ -64,3 +64,9 @@ int main(int argc, char *argv[]){
 	return 0;
 
 }
+
+
+// Output : 
+
+// //Config  : Warn=30°C  Critical=45°C  Readings=10
+// Results : Normal:2  Warning:5  Critical:2  Shutdown:1
